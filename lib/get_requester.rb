@@ -4,5 +4,10 @@ require 'json'
  
 class GetPrograms
   
+  def initialize 
+  end 
+  
+  def get_response_body 
+    
 end 
 
