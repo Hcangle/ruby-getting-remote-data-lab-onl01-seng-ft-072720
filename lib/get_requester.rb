@@ -2,7 +2,7 @@ require 'net/http'
 require 'open-uri'
 require 'json'
  
-class GetPrograms
+class GetRequester
   
   def initialize(url)
     @url = url 
@@ -21,3 +21,5 @@ class GetPrograms
   end
 end 
 end 
+
+
