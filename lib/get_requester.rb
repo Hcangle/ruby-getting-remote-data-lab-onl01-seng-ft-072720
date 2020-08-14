@@ -4,8 +4,7 @@ require 'json'
  
 class GetPrograms
   
-  def initialize 
-  end 
+  URL = 
   
   def get_response_body 
   end 
